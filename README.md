@@ -55,7 +55,7 @@
 ## 📫 How to reach me:
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow AlyonkaNY on LinkedIn" title="Follow AlyonkaNY on LinkedIn"/>](https://linkedin.com/in/yelena-ignatyeva)
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/y7uDMJF6)
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%" align="center"/>](https://discord.gg/y7uDMJF6)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow AlyonkaNY on Instagram" title="Follow AlyonkaNY on Instagram"/>](https://instagram.com/eliteflowersnyc/)
 
 
