@@ -5,17 +5,19 @@
 - 🌱 I’m playing 🎹♪♪♪, ❤animals🦔🐈🦉 and 🌼🌻🌷flowers.
 
 <pre><span class="pl-k">const</span> <span class="pl-s1">QA_Engineer</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">pronouns</span>: <span class="pl-s">"she"</span> <span class="pl-c1">|</span> <span class="pl-s">"her"</span><span class="pl-kos">,</span>
+  <span class="pl-c1">pronouns</span>: <span class="pl-s">[</span> <span class="pl-s">"she"</span> <span class="pl-c1">,</span> <span class="pl-s">"her"</span> <span class="pl-s">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">"Javascript</span><span class="pl-kos">,</span> <span class="pl-c1">HTML</span><span class="pl-kos">,</span> <span class="pl-c1">CSS</span><span class="pl-kos">,</span> <span class="pl-v">Python</span><span class="pl-kos">,</span> <span class="pl-v">SQL"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">tools</span>: <span class="pl-kos">[</span><span class="pl-v">"Jira</span><span class="pl-kos">,</span> <span class="pl-v">Slack</span><span class="pl-kos">,</span> <span class="pl-v">Node</span><span class="pl-kos">,</span> <span class="pl-v">GitHub</span><span class="pl-kos">,</span> <span class="pl-v">Selenium</span><span class="pl-c1">, </span><span class="pl-v">Postman_API</span><span class="pl-kos">,</span> <span class="pl-v">Visual_Studio</span><span class="pl-kos">,</span> <span class="pl-v">Pycharm"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">responsibilities</span>: <span class="pl-kos">[</span><span class="pl-s">"Requirement analysis"</span><span class="pl-kos">,</span> <span class="pl-s">"Test planning"</span><span class="pl-kos">,</span> <span class="pl-s">"Test case design and development"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">Summary</span>: <span class="pl-kos">{</span>
-                        <span class="pl-c1">My_skills</span>: <span class="pl-s">"automated and manual tests etc.."</span><span class="pl-kos">,</span>
-                        <span class="pl-c1">Recent_project</span>: <span class="pl-s">"BloomLuxury.com"</span><span class="pl-kos">,</span>
-                        <span class="pl-c1">mentor</span>: <span class="pl-s">"SergioUS"</span>
-                      <span class="pl-kos">}</span><span class="pl-kos">,</span>
- <span class="pl-c1">challenge</span>: <span class="pl-s">"I am doing the #100DaysOfCode challenge focused on python and javascript"</span>
-<span class="pl-kos">}</span></pre>  . . . - Please ⭐ if you like it! ❤
+      <span class="pl-c1">My_skills</span>: <span class="pl-s">"automated and manual tests etc.."</span><span class="pl-kos">,</span>
+      <span class="pl-c1">Recent_project</span>: <span class="pl-s">"BloomLuxury.com"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">mentor</span>: <span class="pl-s">"SergioUS"</span>
+  <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am improving my skills, recent challenge CS50W"</span>
+<span class="pl-kos">}</span>
+<span class="pl-s">console.log(QA_Engineer)</span></pre> 
+  . . . - Please ⭐ if you like it! ❤
 ## 💻 My languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
