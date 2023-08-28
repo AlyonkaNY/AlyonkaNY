@@ -11,10 +11,9 @@
   <span class="pl-c1">responsibilities</span>: <span class="pl-kos">[</span><span class="pl-s">"Requirement analysis"</span><span class="pl-kos">,</span> <span class="pl-s">"Test planning"</span><span class="pl-kos">,</span> <span class="pl-s">"Test case design and development"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">Summary</span>: <span class="pl-kos">{</span>
       <span class="pl-c1">My_skills</span>: <span class="pl-s">"automated and manual tests etc.."</span><span class="pl-kos">,</span>
-      <span class="pl-c1">Recent_project</span>: <span class="pl-s">"BloomLuxury.com"</span><span class="pl-kos">,</span>
-      <span class="pl-c1">mentor</span>: <span class="pl-s">"SergioUS"</span>
-  <span class="pl-kos">}</span><span class="pl-kos">,</span>
-  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am improving my skills, recent challenge CS50W"</span>
+      <span class="pl-c1">Recent_project</span>: <span class="pl-s">"BloomLuxury.com"</span><span class="pl-kos"></span>
+      <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am improving my skills, recent challenge TAU"</span>
 <span class="pl-kos">}</span>
 <span class="pl-s">console.log(QA_Engineer)</span></pre> 
   . . . - Please ⭐ if you like it! ❤
