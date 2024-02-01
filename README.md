@@ -1,9 +1,6 @@
-## Hi there!  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"> 
-### My name is Yelena Ignatyeva, but i prefer nickname *Alyonka* (👈 happy😉 and easy going through life😍)
-## I'm 🎰QA Software Engineer experienced in Manual and Automation Testing, from New York (🙈🙉🙊)
-- 🔭 I’m always improving my skills,  <img src="https://www.ravedigital.in/wp-content/uploads/2015/12/browser-1.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 192px; margin: 0px; width: 259px;" alt="What is Cross-browser compatibility and why is it important? - Rave Digital  (India)" jsname="kn3ccd" aria-hidden="false">   <img src="https://techconative.com/images/portfolio/restel_banner.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:200px; height: 202px; margin: 0px; width: 259px;" alt="Restel - No(Low) code REST API automation tool" jsname="kn3ccd" aria-hidden="false">
-![facts of life](https://github.com/AlyonkaNY/AlyonkaNY/assets/134506592/7c41cc19-a80f-4e1a-abb8-a45c1edebfab)
-
+### Hello there!   
+#### My name is Alyonka, I'm 🎰QA Software Engineer experienced in Manual and Automation Testing, from New York.
+🔭 I’m passionate learner,  <img src="https://www.ravedigital.in/wp-content/uploads/2015/12/browser-1.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 192px; margin: 0px; width: 259px;" alt="What is Cross-browser compatibility and why is it important? - Rave Digital  (India)" jsname="kn3ccd" aria-hidden="false">   <img src="https://techconative.com/images/portfolio/restel_banner.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:200px; height: 202px; margin: 0px; width: 259px;" alt="Restel - No(Low) code REST API automation tool" jsname="kn3ccd" aria-hidden="false">
 - 🌱 I’m playing 🎹♪♪♪, ❤animals🦔🐈🦉 and 🌼🌻🌷flowers.
 
 <pre><span class="pl-k">const</span> <span class="pl-s1">QA_Engineer</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
@@ -15,7 +12,7 @@
       <span class="pl-c1">My_skills</span>: <span class="pl-s">"automated and manual tests etc.."</span><span class="pl-kos">,</span>
       <span class="pl-c1">Recent_project</span>: <span class="pl-s">"Philly Outreach"</span><span class="pl-kos"></span>
       <span class="pl-kos">}</span><span class="pl-kos">,</span>
-  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am improving my skills, recent challenge TestIO"</span>
+  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am improving my skills, recent challenge Java"</span>
 <span class="pl-kos">}</span>
 <span class="pl-s">console.log(QA_Engineer)</span></pre> 
   . . . - Please ⭐ if you like it! ❤
@@ -42,7 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp;
-  <img src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/1da985bb9c759cb27cc6ba6ef9a05f35e27c8c5b33c03de1a4bafede6d6e7b23/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="55" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="55" height="55" />  
@@ -60,7 +58,7 @@
 
 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow AlyonkaNY on LinkedIn" title="Follow AlyonkaNY on LinkedIn"/>](https://linkedin.com/in/yelena-ignatyeva)
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%" align="center"/>](https://discord.gg/y7uDMJF6)
@@ -68,6 +66,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=AlyonkaNY&color=red)
+![facts of life](https://github.com/AlyonkaNY/AlyonkaNY/assets/134506592/7c41cc19-a80f-4e1a-abb8-a45c1edebfab)
 
 
 
