@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="max-width: 100%;">
 
 ## 🛠️ My Tools
 <div>
