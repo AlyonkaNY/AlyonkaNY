@@ -1,7 +1,8 @@
 ### Hello there!   
 #### My name is Alyonka, I'm 🎰QA Software Engineer experienced in Manual and Automation Testing, from New York.
-🔭 I’m passionate learner,  <img src="https://www.ravedigital.in/wp-content/uploads/2015/12/browser-1.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 192px; margin: 0px; width: 259px;" alt="What is Cross-browser compatibility and why is it important? - Rave Digital  (India)" jsname="kn3ccd" aria-hidden="false">   <img src="https://techconative.com/images/portfolio/restel_banner.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:200px; height: 202px; margin: 0px; width: 259px;" alt="Restel - No(Low) code REST API automation tool" jsname="kn3ccd" aria-hidden="false">
-- 🌱 I’m playing 🎹♪♪♪, ❤animals🦔🐈🦉 and 🌼🌻🌷flowers.
+
+- 🔭 I’m passionate learner,  <img src="https://www.ravedigital.in/wp-content/uploads/2015/12/browser-1.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 192px; margin: 0px; width: 259px;" alt="What is Cross-browser compatibility and why is it important? - Rave Digital  (India)" jsname="kn3ccd" aria-hidden="false">   <img src="https://techconative.com/images/portfolio/restel_banner.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:200px; height: 202px; margin: 0px; width: 259px;" alt="Restel - No(Low) code REST API automation tool" jsname="kn3ccd" aria-hidden="false">
+ - 🌱I’m playing 🎹♪♪♪, ❤animals🦔🐈🦉 and 🌼🌻🌷flowers.
 
 <pre><span class="pl-k">const</span> <span class="pl-s1">QA_Engineer</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">pronouns</span>: <span class="pl-s">[</span> <span class="pl-s">"she"</span> <span class="pl-c1">,</span> <span class="pl-s">"her"</span> <span class="pl-s">]</span><span class="pl-kos">,</span>
@@ -15,7 +16,6 @@
   <span class="pl-c1">challenge</span>: <span class="pl-s">"I am improving my skills, recent challenge Java"</span>
 <span class="pl-kos">}</span>
 <span class="pl-s">console.log(QA_Engineer)</span></pre> 
-  . . . - Please ⭐ if you like it! ❤
 ## 💻 My languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
@@ -62,8 +62,8 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow AlyonkaNY on LinkedIn" title="Follow AlyonkaNY on LinkedIn"/>](https://linkedin.com/in/yelena-ignatyeva)
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%" align="center"/>](https://discord.gg/y7uDMJF6)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow AlyonkaNY on Instagram" title="Follow AlyonkaNY on Instagram"/>](https://instagram.com/eliteflowersnyc/)
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow AlyonkaNY on Instagram" title="Follow AlyonkaNY on Instagram"/>](https://instagram.com/eliteflowersnyc/) 
+ ❤ if you like it! 
 
 ![](https://komarev.com/ghpvc/?username=AlyonkaNY&color=red)
 ![facts of life](https://github.com/AlyonkaNY/AlyonkaNY/assets/134506592/7c41cc19-a80f-4e1a-abb8-a45c1edebfab)
