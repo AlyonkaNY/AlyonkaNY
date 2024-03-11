@@ -64,7 +64,7 @@
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%" align="center"/>](https://discord.gg/y7uDMJF6)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow AlyonkaNY on Instagram" title="Follow AlyonkaNY on Instagram"/>](https://instagram.com/eliteflowersnyc/) 
 
-![](https://komarev.com/ghpvc/?username=AlyonkaNY&color=red)
+![](https://komarev.com/ghpvc/?username=AlyonkaNY&color=yellow)
 ![facts of life](https://github.com/AlyonkaNY/AlyonkaNY/assets/134506592/7c41cc19-a80f-4e1a-abb8-a45c1edebfab) <img alt="My Codewars kyu" src="https://www.codewars.com/users/Alyonka%20Ignatyeva/badges/small">
 
 
