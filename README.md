@@ -1,5 +1,5 @@
 ### Hello there!   
-#### My name is Alyonka, I'm 🎰QA Software Engineer experienced in Manual and Automation Testing, from New York.
+#### My name is Alyonka, I'm 🎰Software QA Engineer experienced in Manual and Automation Testing, from New York.
 
 - 🔭 I’m passionate learner,  <img src="https://github.com/AlyonkaNY/JenkinsQA_2024_spring_ExitCodeZero/blob/main/Screenshot%202024-05-21%20223501.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 192px; margin: 0px; width: 259px;" alt="What is Cross-browser compatibility and why is it important? - Rave Digital  (India)" jsname="kn3ccd" aria-hidden="false">   <img src="https://techconative.com/images/portfolio/restel_banner.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:200px; height: 202px; margin: 0px; width: 259px;" alt="Restel - No(Low) code REST API automation tool" jsname="kn3ccd" aria-hidden="false">
  - 🌱I’m playing 🎹♪♪♪, ❤animals🦔🐈🦉 and 🌼🌻🌷flowers.
